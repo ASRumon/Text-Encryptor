@@ -22,15 +22,15 @@ Simple and Intuitive Interface: The app boasts a clean and user-friendly interfa
 
 Text Encryption: Text-Encryptor enables you to encrypt your messages to prevent unauthorized access. By converting your plain text into a cipher text using encryption techniques, it ensures the confidentiality of your information.
 
-**Encryption Algorithms: **The app utilizes standard encryption algorithms to encode your text, making it more challenging for potential eavesdroppers to decipher the content. While it may not offer the highest level of security available, it provides ample protection for everyday purposes.
+**Encryption Algorithms:**The app utilizes standard encryption algorithms to encode your text, making it more challenging for potential eavesdroppers to decipher the content. While it may not offer the highest level of security available, it provides ample protection for everyday purposes.
 
 **Message Decryption:** In addition to encrypting your messages, Text-Encryptor also provides a decryption feature that allows you to retrieve the original text. You can decrypt the encrypted messages within the app using the appropriate decryption method.
 
 **Convenience and Versatility:** Text-Encryptor allows you to encrypt and decrypt text on the go, ensuring that your sensitive information remains secure even when you're away from your computer. It offers a convenient way to protect your messages without compromising on accessibility.
 
-**Share Encrypted Messages: **The application enables you to share your encrypted messages with others securely. You can send the encrypted text via messaging apps, email, or any other communication platform. The recipient can then use Text-Encryptor to decrypt the message and view its contents.
+**Share Encrypted Messages:**The application enables you to share your encrypted messages with others securely. You can send the encrypted text via messaging apps, email, or any other communication platform. The recipient can then use Text-Encryptor to decrypt the message and view its contents.
 
-**Password Protection: **To enhance the security of your encrypted messages, Text-Encryptor incorporates password protection. You can set a unique password that will be required to access the app, ensuring that only authorized individuals can encrypt or decrypt the messages.
+**Password Protection:**To enhance the security of your encrypted messages, Text-Encryptor incorporates password protection. You can set a unique password that will be required to access the app, ensuring that only authorized individuals can encrypt or decrypt the messages.
 
 **Lightweight and Efficient: **Text-Encryptor is designed to be lightweight and efficient, minimizing its impact on your device's resources while delivering smooth performance. This allows for a seamless user experience without compromising the functionality and security of the app.
 
@@ -38,11 +38,11 @@ Text Encryption: Text-Encryptor enables you to encrypt your messages to prevent 
 
 **No Permissions Required:** Text-Encryptor respects your privacy by not requiring any permissions on your device. This ensures that the app cannot access any personal data, contacts, messages, or other sensitive information stored on your device. You can have peace of mind knowing that your data remains secure and private.
 
-**Offline Functionality: **Text-Encryptor functions entirely offline, meaning it does not rely on an internet connection to encrypt or decrypt text messages. This eliminates any potential risks associated with online data transmission or storage. Your messages are encrypted and decrypted locally on your device, providing an extra layer of privacy and security.
+**Offline Functionality:**Text-Encryptor functions entirely offline, meaning it does not rely on an internet connection to encrypt or decrypt text messages. This eliminates any potential risks associated with online data transmission or storage. Your messages are encrypted and decrypted locally on your device, providing an extra layer of privacy and security.
 
-**No Data Storage: **The app does not store any data, whether it's your original messages, encrypted messages, or passwords. Once you close the app or delete the encrypted messages, there is no residual data left behind. This ensures that your information remains solely in your control and reduces the risk of unauthorized access or data breaches.
+**No Data Storage:**The app does not store any data, whether it's your original messages, encrypted messages, or passwords. Once you close the app or delete the encrypted messages, there is no residual data left behind. This ensures that your information remains solely in your control and reduces the risk of unauthorized access or data breaches.
 
-**Enhanced Privacy: **By operating offline and not storing any data, Text-Encryptor minimizes the chances of your sensitive information being compromised. It eliminates the need to trust external servers or cloud storage, as all encryption and decryption processes occur locally on your device. This enhances your privacy and reduces the potential attack surface for malicious actors.
+**Enhanced Privacy:**By operating offline and not storing any data, Text-Encryptor minimizes the chances of your sensitive information being compromised. It eliminates the need to trust external servers or cloud storage, as all encryption and decryption processes occur locally on your device. This enhances your privacy and reduces the potential attack surface for malicious actors.
 
 **Increased Security:** The app's offline nature and lack of data storage contribute to its overall security. By not relying on external servers, there is no risk of data interception during transmission or unauthorized access to stored information. This ensures that your encrypted messages are kept confidential and protected from potential threats.
 <font color="red">
