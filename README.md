@@ -1,5 +1,6 @@
 # Text-Encryptor
 This is a simple text-encryptor. It's not bulletproof or super safe, but it's more than enough if you don't have that many super important secrets.
+<br>
 ![Untitled-1 (Custom)](https://github.com/ASRumon/Text-Encryptor/assets/97669342/0cb73118-d03e-483f-985c-a9f296e1b2f4)
 
 
